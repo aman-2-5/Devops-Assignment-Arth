@@ -282,24 +282,31 @@ chmod +x check.sh
 # ✅ Task 7 – Short Answers
 
 **1. Docker Image vs Container**
+
 Image is a template; container is a running instance of that image.
 
 **2. systemctl start vs enable**
+
 Start runs service immediately; enable starts it at boot.
 
 **3. Nginx Reverse Proxy**
+
 It forwards client requests to backend servers.
 
 **4. Check process using port**
+
 Use: `lsof -i :PORT`
 
 **5. AWS EC2**
+
 Virtual server in the cloud.
 
 **6. Jenkins**
+
 Tool for automating CI/CD pipelines.
 
 **7. CodePipeline**
+
 AWS service for automating build, test, and deployment.
 
 ---
