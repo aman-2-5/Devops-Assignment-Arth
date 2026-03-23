@@ -145,9 +145,6 @@ http://<public-ip>:8080
 
 ---
 
-![Browser Output](https://github.com/user-attachments/assets/your-screenshot11)
-
----
 
 #  Task 4 – Nginx Reverse Proxy
 
