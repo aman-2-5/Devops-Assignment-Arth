@@ -1,6 +1,6 @@
 # DevOps Assignment – ARTH
 
-## 👨‍💻 Environment
+##  Environment
 
 * AWS EC2 Instance (Amazon Linux)
 * Public IP used for testing
@@ -8,7 +8,7 @@
 
 ---
 
-# ✅ Task 1 – Basic Linux Setup
+#  Task 1 – Basic Linux Setup
 
 ## 🔹 User Creation & Sudo Access
 
@@ -60,7 +60,7 @@ df -h
 
 ---
 
-# ✅ Task 2 – Service Management
+#  Task 2 – Service Management
 
 ## 🔹 Start & Enable Nginx
 
@@ -91,7 +91,7 @@ sudo lsof -i :80
 
 ---
 
-# ✅ Task 3 – Docker Web Application
+#  Task 3 – Docker Web Application
 
 ## 🔹 Create Project
 
@@ -149,7 +149,7 @@ http://<public-ip>:8080
 
 ---
 
-# ✅ Task 4 – Nginx Reverse Proxy
+#  Task 4 – Nginx Reverse Proxy
 
 ## 🔹 Configure Nginx
 
@@ -197,7 +197,7 @@ http://<public-ip>
 
 ---
 
-# ✅ Task 5 – Troubleshooting
+#  Task 5 – Troubleshooting
 
 ## 🔹 Issue
 
@@ -246,7 +246,7 @@ http://<public-ip>:8080
 
 ---
 
-# ✅ Task 6 – Shell Script
+#  Task 6 – Shell Script
 
 ## 🔹 Script File (check.sh)
 
@@ -279,7 +279,7 @@ chmod +x check.sh
 
 ---
 
-# ✅ Task 7 – Short Answers
+#  Task 7 – Short Answers
 
 **1. Docker Image vs Container**
 
@@ -311,11 +311,11 @@ AWS service for automating build, test, and deployment.
 
 ---
 
-# 🚀 Conclusion
+#  Conclusion
 
 Successfully deployed a Docker-based web application and configured Nginx reverse proxy on an Amazon Linux EC2 instance with proper troubleshooting and automation script.
 
-## 👨‍💻 Author
+##  Author
 
 **Aman Lodha**  
 Cloud Security
